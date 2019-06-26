@@ -21,8 +21,6 @@
 			<div id="bg"></div>
 			<div id="overlay"></div>
 			<div id="main">
-
-				<!-- Header -->
 					<header id="header">
 						<h1>Swiftdays</h1>
 						<nav>
@@ -34,7 +32,6 @@
 							</ul>
 						</nav>
 					</header>
-
 			</div>
 		</div>
 	</body>
