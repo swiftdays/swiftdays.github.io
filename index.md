@@ -1,38 +1,42 @@
-<!DOCTYPE html>
-<html lang="en" >
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Aerial by HTML5 UP www.5imoban.net</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/skel.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-wide.css" />
+			<link rel="stylesheet" href="css/style-noscript.css" />
+		</noscript>
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	</head>
+	<body class="loading">
+		<div id="wrapper">
+			<div id="bg"></div>
+			<div id="overlay"></div>
+			<div id="main">
 
-<head>
-  <meta charset="UTF-8">
-  <title>Swiftdays</title>
+				<!-- Header -->
+					<header id="header">
+						<h1>Swiftdays</h1>
+						<nav>
+							<ul>
+								<li><a href="https://twitter.com/pinlvlc" class="fa fa-twitter"><span>Twitter</span></a></li>
+								<li><a href="https://www.facebook.com/profile.php?id=100038647444637" class="fa fa-facebook"><span>Facebook</span></a></li>
+								<li><a href="https://github.com/swiftdays" class="fa fa-github"><span>Github</span></a></li>
+								<li><a href="mailto:master@swiftdays.com" class="fa fa-envelope-o"><span>Email</span></a></li>
+							</ul>
+						</nav>
+					</header>
 
-
-
-      <link rel="stylesheet" href="css/style.css">
-
-
-</head>
-
-<body>
-<div style="text-align:center;clear:both">
-<script src="/gg_bd_ad_720x90.js" type="text/javascript"></script>
-<script src="/follow.js" type="text/javascript"></script>
-</div>
-  <div id="container"></div>
-  <script src='js/three.min.js'></script>
-<script src='js/CopyShader.js'></script>
-<script src='js/EffectComposer.js'></script>
-<script src='js/FilmPass.js'></script>
-<script src='js/FilmShader.js'></script>
-<script src='js/ShaderPass.js'></script>
-<script src='js/RenderPass.js'></script>
-
-
-
-    <script  src="js/index.js"></script>
-
-
-
-
-</body>
-
+			</div>
+		</div>
+	</body>
 </html>
